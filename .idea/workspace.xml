@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d7687c-3d29-4d07-ba7c-0b4448012733" name="Changes" comment="Eval file">
+    <list default="true" id="25d7687c-3d29-4d07-ba7c-0b4448012733" name="Changes" comment="Job and resume parsing completion">
+      <change afterPath="$PROJECT_DIR$/evaluator/evaluator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser_scripts/job_parse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluator/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator/eval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sample" />
       <recent name="$PROJECT_DIR$/parser_scripts" />
       <recent name="$PROJECT_DIR$/evaluator" />
     </key>
@@ -88,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753998520786</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Job and resume parsing completion">
+      <option name="closed" value="true" />
+      <created>1754078743849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754078743849</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Eval file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eval file" />
+    <MESSAGE value="Job and resume parsing completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Job and resume parsing completion" />
   </component>
 </project>
