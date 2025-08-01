@@ -356,5 +356,6 @@ def main():
     except Exception as e:
         print(f"Error: {e}")
 
-if __name__ == "__main__":
-    main()
+def parse_resume_file(pdf_path: str) -> Dict[str, Any]:
+    parser = ResumeParser()
+    return parser.parse_resume(pdf_path)
